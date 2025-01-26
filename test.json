@@ -1,9 +1,9 @@
 {
-  "file": "naos.epub",
+  "file": "inut.epub",
   "directory": "output",
   "contextBefore": 10,
   "contextAfter": 10,
-  "APIKey": "AIzaSyBiBYuauzgJCmqowAmLGBz5Ey9gtn1guag",
+  "APIKey": "",
   "prompt": "Process the following HTML while maintaining valid syntax:\n\n",
   "instruction": "You are an expert text editor. \n\t\tYou specialize in web novels (Fantasy and Cultivation).\n\n\t\tYour task is to:\n        1. Fix grammatical mistakes\n        2. Remove text artifacts not part of the original content\n        3. Maintain consistency in character details\n        4. Improve clarity if necessary (prefer smaller edits)\n\n        Always preserve the essential meaning and structure of the original text.\n\t\tDo not add any formating or extra content to response.\n\t\tDo not include additional context in the response",
   "model": "gemini-1.5-flash"
